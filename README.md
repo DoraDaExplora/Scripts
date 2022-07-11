@@ -1,5 +1,5 @@
 # Scripts
-A collection of my scripts an automatizations.
+A collection of my scripts and automatizations.
 Feel free to use them yourself, but be careful and read the code before using.
 
 ## Contents
