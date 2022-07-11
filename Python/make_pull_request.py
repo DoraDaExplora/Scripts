@@ -17,8 +17,6 @@ parser.add_argument(
 args = parser.parse_args()
 
 api_url = f'https://api.github.com/repos/{args.owner}/{args.repo}/pulls'
-print(api_url)
-print(args)
 
 req_headers = {
     'accept': 'application/vnd.github+json',
